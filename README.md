@@ -1,17 +1,15 @@
-### Dae! suave?
-<hr>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julio-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Julio-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### Hey! I'm name is Julio
+<p>Nice to meet you 👽👽</p>
+<div>
+<a href="https://github.com/jjuliobit">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuliobit&layout=compact&langs_count=7&theme=transparent"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jjuliobit&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
-  
-  ##
+
+## Contatos:
+
+<div>
+<a href="https://twitter.com/jjbit_eth" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/twitter/twitter-original.svg" target="_blank" width="40" heigth="40"></a> 
+<a href="https://www.linkedin.com/in/julio-s-42b965288/" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg" width="40" heigth="40" target="_blank"></a>   
+</div>
  
-<div> 
-  <a href="https://www.linkedin.com/in/julio-s-42b965288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/jjbit_eth" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-</div>
